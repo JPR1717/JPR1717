@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JPR1717
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me japironov@gmail.com
+- 👋 Hallo Hallo, yo can call me Kosim
+- 👀 I’m interested in Data Visualisation and Analytics
+- 🌱 Getting my skills on R and Python to a next level
+- 💞️ I’m looking to collaborate on Data restoration
+- 📫 Reach me on my mail japironov@gmail.com to ask for a collaboration.
 - Want to learn anything that would be beneficial for me.
 
 
